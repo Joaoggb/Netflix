@@ -1,0 +1,23 @@
+1. Adicionar Filme
+ID: 80182016
+Titulo: The King
+Genero: Medieval
+
+2. Adicionar Usuario
+ID: 2311
+Nome: João
+
+3. Listar Filmes
+ID: 80182016, Titulo: The King, Genero: Medieval
+
+4. Listar Usuarios
+ID: 2311, Nome: João, Numero de Favoritos: 0
+
+5. Adicionar Favorito
+ID de usuario: 2311
+Usuario encontrado: Joao
+
+6. Exibir Favoritos de um Usuario
+ID de usario: 2311
+
+7. Sair
